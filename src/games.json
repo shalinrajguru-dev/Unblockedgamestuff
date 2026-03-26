@@ -1,0 +1,66 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D running game where you steer a ball down a steep slope. Avoid obstacles and stay on the track!",
+    "thumbnail": "https://picsum.photos/seed/slope/400/225",
+    "iframeUrl": "https://way78.github.io/slope/",
+    "category": "Action"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3",
+    "description": "Run, jump, and ignore the laws of physics in this space-themed platformer. Explore the galaxy in a series of tunnels.",
+    "thumbnail": "https://picsum.photos/seed/run3/400/225",
+    "iframeUrl": "https://hclover.github.io/run-3/",
+    "category": "Platformer"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game. Rotate and place falling blocks to clear lines and score points.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/225",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers to get to the 2048 tile! Use your arrow keys to move the tiles.",
+    "thumbnail": "https://picsum.photos/seed/2048/400/225",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Dodge obstacles at high speeds in a colorful tunnel. Test your reflexes in this neon-lit challenge.",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/225",
+    "iframeUrl": "https://way78.github.io/tunnel-rush/",
+    "category": "Action"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point. Manage your team and win the big game.",
+    "thumbnail": "https://picsum.photos/seed/football/400/225",
+    "iframeUrl": "https://game316411.konggames.com/gamez/0031/6411/live/index.html",
+    "category": "Sports"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you click a giant cookie to bake more cookies. Buy upgrades and hire grandmas!",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/225",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Dodge traffic, cross rivers, and jump over logs in this endless hopper.",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/225",
+    "iframeUrl": "https://poki.com/en/g/crossy-road",
+    "category": "Action"
+  }
+]
